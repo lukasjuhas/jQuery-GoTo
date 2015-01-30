@@ -38,8 +38,7 @@
 
 		var settings = $.extend({
 			// These are the defaults.
-			color: "#556b2f",
-			backgroundColor: "white"
+			speed: 2000 //miliseconds
 		}, options );
 
 		return this;
